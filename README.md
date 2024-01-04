@@ -18,17 +18,6 @@
 <b> Give a star ⭐</b>
 
 ----
-----
-
-<h3 align="center">Deployment</h3>
-
-  - Heroku 
-  - Mogenius: [Click Here](https://youtu.be/6XIjTbumJYY)
-  - Google Colab: [Click Here](https://youtu.be/sYgy4_8i7c8)
-  - VPS/Local hosting: [Click here](https://github.com/RiZoeLX/SpamX/blob/main/resources/local.md)
-  - Termux: [Click Here](https://github.com/RiZoeLX/SpamX/blob/main/resources/termux.md) `Some errors!`
-
-----
 
 <h3 align="center">String session</h3>
 
